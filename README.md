@@ -50,6 +50,7 @@ git clone https://github.com/rvega1204/java-unit-testing.git
 cd <project_directory>
 mvn clean install
 mvn clean test
+```
 
 ### License
 This project is licensed under the MIT License.
