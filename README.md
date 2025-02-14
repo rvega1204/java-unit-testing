@@ -46,13 +46,13 @@ The project contains the following main components:
 To run the project, clone the repository and build the project using Maven:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/rvega1204/java-unit-testing.git
 cd <project_directory>
 mvn clean install
-mvn spring-boot:run
+mvn clean test
 
 ### License
 This project is licensed under the MIT License.
 
 
-This README outlines the project, its technologies, testing approaches, and includes some examples of the different kinds of tests used throughout. Feel free to clone it and modify it according to your needs.
+This README outlines the project, its technologies, testing approaches, and some examples of the different tests used throughout. Feel free to clone it and modify it according to your needs.
